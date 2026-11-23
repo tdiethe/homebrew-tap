@@ -3,7 +3,9 @@
 Homebrew tap for my Mac apps.
 
 ```bash
-brew install --cask tdiethe/tap/lichess-desk
+brew tap tdiethe/tap
+brew trust tdiethe/tap     # Homebrew asks you to trust third-party taps
+brew install --cask lichess-desk
 ```
 
 | Cask | What it is |
