@@ -7,7 +7,7 @@ cask "lichess-desk" do
   desc "Unofficial lichess.org app made for streaming, with clock tint and auto-queen"
   homepage "https://github.com/tdiethe/Chess-Stuff"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Lichess Desk.app"
 
