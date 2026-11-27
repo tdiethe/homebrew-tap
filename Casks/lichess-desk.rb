@@ -1,6 +1,6 @@
 cask "lichess-desk" do
-  version "1.0.3"
-  sha256 "f1e3afdcf8fd3ac402630570c9153e94ca91867af33a55bedb841ecf17a557ec"
+  version "1.0.4"
+  sha256 "ddcea8fc7c1de8495f04a01d4b3d15d9e80e0eb6f0f81f23f7ed88566ce4de95"
 
   url "https://github.com/tdiethe/homebrew-tap/releases/download/lichess-desk-v#{version}/Lichess-Desk-#{version}.zip"
   name "Lichess Desk"
